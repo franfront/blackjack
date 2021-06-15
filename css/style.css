@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    background-color: #2F4F30;
+    color: #ffffff ;
+    overflow-x: hidden;
+}
+
+h1{
+    font-size: 25px;
+}
+
+
+
+.titulo{
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.carta{
+    width: 100px;
+    position: relative;
+    left: 100px;
+    margin-left: -75px;
+}
+
+
+#player-cards, #computer-cards{
+    height: 200px;
+}
