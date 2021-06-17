@@ -4,7 +4,7 @@
     
     let pointsPlayers = [];
     const tipos = ['C', 'D', 'H', 'S'];
-    const especiales = ['A', 'J', 'k', 'Q'];
+    const especiales = ['A', 'J', 'K', 'Q'];
     const pedir = document.querySelector('#ask');
     const detener = document.querySelector('#stop');
     const reset = document.querySelector('#new');
