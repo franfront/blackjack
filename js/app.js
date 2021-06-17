@@ -119,7 +119,7 @@
 
     const createCard = (card, turn) =>{
         const cardsImg = document.createElement('img');
-        cardsImg.src = `/cartas/${card}.png`;
+        cardsImg.src = `cartas/${card}.png`;
         cardsImg.classList.add('carta');
         //insertar cartas
         divCardsPLayers[turn].append(cardsImg);
