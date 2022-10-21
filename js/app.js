@@ -135,7 +135,7 @@
             if (pointsComputer === pointsMin) {
                 alert('empate');
             } else if(pointsMin > 21) {
-                alert('Perdiste, Jodete');
+                alert('Perdiste');
             } else if(pointsComputer > 21){
                 alert('Ganaste, al fin');
             } else if(pointsMin > pointsComputer){
